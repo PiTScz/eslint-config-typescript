@@ -11,7 +11,7 @@ These configuration files are suitable to lint TypeScript code.
 
 Add or edit the file `.eslintrc.json` in your project.
 
-```
+```json
 {
   "extends": ["@pitscz/eslint-config-typescript"],
   "rules": {}
