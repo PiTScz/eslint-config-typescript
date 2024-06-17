@@ -4,9 +4,6 @@ updates:
     directory: '/'
     schedule:
       interval: 'weekly'
-      day: 'monday'
-      time: '09:00'
-      timezone: 'Europe/Prague'
     commit-message:
       prefix: 'chore'
       include: 'scope'
@@ -15,9 +12,6 @@ updates:
     directory: '/'
     schedule:
       interval: 'weekly'
-      day: 'monday'
-      time: '09:00'
-      timezone: 'Europe/Prague'
     commit-message:
       prefix: 'chore'
       include: 'scope'
