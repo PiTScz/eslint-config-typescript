@@ -10,7 +10,6 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:@next/next/recommended',
     'plugin:sort/recommended',
-    'plugin:typescript-sort-keys/recommended',
     'plugin:prettier/recommended',
     'plugin:testing-library/react',
   ],
