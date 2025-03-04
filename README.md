@@ -1,4 +1,4 @@
-# PiTS.cz - ESLint config Typescript
+# PiTS s.r.o. - ESLint config Typescript
 
 [![Licence MIT](https://img.shields.io/npm/l/%40pitscz%2Feslint-config-typescript)](https://github.com/PiTScz/eslint-config-typescript/blob/main/LICENSE)
 [![Publish package to GitHub Packages](https://github.com/PiTScz/eslint-config-typescript/actions/workflows/publish-package.yml/badge.svg)](https://www.npmjs.com/package/@pitscz/eslint-config-typescript)
