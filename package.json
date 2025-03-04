@@ -2,7 +2,7 @@
   "name": "@pitscz/eslint-config-typescript",
   "description": "PiTS s.r.o. - ESLint config for TypeScript projects",
   "author": "PiTS s.r.o.",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "license": "MIT",
   "homepage": "https://github.com/PiTScz/eslint-config-typescript",
   "keywords": [
@@ -24,15 +24,15 @@
   },
   "dependencies": {
     "@testing-library/react": "^16.2.0",
-    "@typescript-eslint/eslint-plugin": "^8.19.0",
-    "@typescript-eslint/parser": "^8.19.0",
+    "@typescript-eslint/eslint-plugin": "^8.26.0",
+    "@typescript-eslint/parser": "^8.26.0",
     "eslint": "^8.57.1",
-    "eslint-config-next": "^15.1.6",
-    "eslint-config-prettier": "^10.0.1",
+    "eslint-config-next": "^15.2.1",
+    "eslint-config-prettier": "^10.0.2",
     "eslint-plugin-prettier": "^5.2.3",
     "eslint-plugin-react": "^7.37.4",
     "eslint-plugin-sort": "^4.0.0",
     "eslint-plugin-testing-library": "^7.1.1",
-    "prettier": "^3.5.0"
+    "prettier": "^3.5.3"
   }
 }
